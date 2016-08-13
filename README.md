@@ -1,8 +1,7 @@
 # dotfiles
 Configuration files
 
-## details
+## pre-requisites
 brew install bash-completion
-
 brew tap homebrew/completions
 
